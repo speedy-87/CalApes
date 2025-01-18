@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.67f8428f.css",
-    "main.js": "/static/js/main.b585974c.js",
+    "main.css": "/static/css/main.ff49ff8c.css",
+    "main.js": "/static/js/main.d6159c47.js",
     "static/media/apes.mp4": "/static/media/apes.ad61b57204cd4038c9a9.mp4",
     "static/media/banner.gif": "/static/media/banner.234be543524b3c2ca450.gif",
     "static/media/ape-bg.webp": "/static/media/ape-bg.9ad018aa3ea1b2578579.webp",
     "static/media/apeWfire.png": "/static/media/apeWfire.c3a21f6891a8744bc0a6.png",
     "static/media/ape2.png": "/static/media/ape2.1efd6a0a9b9a245ea1f5.png",
+    "static/media/NFT6.png": "/static/media/NFT6.71be149c8608cea1ec4c.png",
     "static/media/apeWaxe.png": "/static/media/apeWaxe.44d094231173e5e719f9.png",
+    "static/media/NFT5.png": "/static/media/NFT5.174ba359c3b41efd7a13.png",
     "static/media/apeWsmoke.jpeg": "/static/media/apeWsmoke.36a9617f02f921d02609.jpeg",
+    "static/media/NFT4.jpeg": "/static/media/NFT4.bc380063111d0fa5a1a0.jpeg",
     "static/media/ForestApe.jpeg": "/static/media/ForestApe.20d25592e53322eb228e.jpeg",
     "static/media/ape1.png": "/static/media/ape1.6074f3646bdf31e758b0.png",
     "static/media/banner.jpeg": "/static/media/banner.a5ebe7b1ed8167f980cb.jpeg",
     "index.html": "/index.html",
-    "main.67f8428f.css.map": "/static/css/main.67f8428f.css.map",
-    "main.b585974c.js.map": "/static/js/main.b585974c.js.map"
+    "main.ff49ff8c.css.map": "/static/css/main.ff49ff8c.css.map",
+    "main.d6159c47.js.map": "/static/js/main.d6159c47.js.map"
   },
   "entrypoints": [
-    "static/css/main.67f8428f.css",
-    "static/js/main.b585974c.js"
+    "static/css/main.ff49ff8c.css",
+    "static/js/main.d6159c47.js"
   ]
 }
